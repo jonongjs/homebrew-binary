@@ -2,9 +2,9 @@
 class AdobeAirSdk < Formula
   desc "SDK for Adobe Air"
   homepage "https://www.adobe.com/devnet/air/air-sdk-download.html"
-  url "http://airdownload.adobe.com/air/mac/download/18.0/AIRSDK_Compiler.tbz2"
-  version "18.0.0.180"
-  sha256 "e2eae0869fb335a428fd64a9fc624e35393fe72707e2561215f3c798c10a33ab"
+  url "http://airdownload.adobe.com/air/mac/download/19.0/AIRSDK_Compiler.tbz2"
+  version "19.0.0.190"
+  sha256 "a724d7cae0f9602551e714a9e7ac77217e027de0bb957c9dad4f5596ea5d2c8c"
 
   conflicts_with "adobe-air-sdk-flex"
 
